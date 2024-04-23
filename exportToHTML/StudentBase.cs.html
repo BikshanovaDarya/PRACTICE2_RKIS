@@ -1,0 +1,34 @@
+<html>
+<head>
+<title>StudentBase.cs</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.s0 { color: #6c95eb;}
+.s1 { color: #d0d0d0;}
+.s2 { color: #bdbdbd;}
+.s3 { color: #c9a26d;}
+.s4 { color: #ed94c0;}
+</style>
+</head>
+<body bgcolor="#262626">
+<table CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#606060" >
+<tr><td><center>
+<font face="Arial, Helvetica" color="#000000">
+StudentBase.cs</font>
+</center></td></tr></table>
+<pre><span class="s0">namespace </span><span class="s1">Task2</span><span class="s2">.</span><span class="s1">_1</span><span class="s2">;</span>
+<span class="s0">public class </span><span class="s1">Student</span>
+<span class="s2">{</span>
+    <span class="s0">public string </span><span class="s1">LastName </span><span class="s2">{ </span><span class="s1">get</span><span class="s2">; </span><span class="s1">set</span><span class="s2">; } = </span><span class="s3">&quot;&quot;</span><span class="s2">;</span>
+    <span class="s0">public </span><span class="s1">DateOnly BirthDate </span><span class="s2">{ </span><span class="s1">get</span><span class="s2">; </span><span class="s0">private </span><span class="s1">set</span><span class="s2">; }</span>
+    <span class="s0">public int </span><span class="s1">Group </span><span class="s2">{ </span><span class="s1">get</span><span class="s2">; </span><span class="s1">set</span><span class="s2">; }</span>
+    <span class="s0">public int</span><span class="s2">[]</span><span class="s1">? Performanse </span><span class="s2">{ </span><span class="s1">get</span><span class="s2">; </span><span class="s1">set</span><span class="s2">; } = </span><span class="s0">new int</span><span class="s2">[</span><span class="s4">5</span><span class="s2">];</span>
+
+    <span class="s0">public </span><span class="s1">DateOnly SetDate</span><span class="s2">(</span><span class="s0">int </span><span class="s1">day</span><span class="s2">, </span><span class="s0">int </span><span class="s1">month</span><span class="s2">, </span><span class="s0">int </span><span class="s1">year</span><span class="s2">)</span>
+    <span class="s2">{</span>
+        <span class="s1">BirthDate </span><span class="s2">= </span><span class="s0">new </span><span class="s1">DateOnly</span><span class="s2">(</span><span class="s1">year</span><span class="s2">, </span><span class="s1">month</span><span class="s2">, </span><span class="s1">day</span><span class="s2">);</span>
+        <span class="s0">return </span><span class="s1">BirthDate</span><span class="s2">;</span>
+    <span class="s2">}</span>
+<span class="s2">}</span></pre>
+</body>
+</html>

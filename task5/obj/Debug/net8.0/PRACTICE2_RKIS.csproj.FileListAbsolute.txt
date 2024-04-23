@@ -1,0 +1,14 @@
+C:\Users\public.COPP\RiderProjects\PRACTICE2_RKIS\PRACTICE2_RKIS\obj\Debug\net8.0\PRACTICE2_RKIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\public.COPP\RiderProjects\PRACTICE2_RKIS\PRACTICE2_RKIS\obj\Debug\net8.0\PRACTICE2_RKIS.AssemblyInfoInputs.cache
+C:\Users\public.COPP\RiderProjects\PRACTICE2_RKIS\PRACTICE2_RKIS\obj\Debug\net8.0\PRACTICE2_RKIS.AssemblyInfo.cs
+C:\Users\public.COPP\RiderProjects\PRACTICE2_RKIS\PRACTICE2_RKIS\obj\Debug\net8.0\PRACTICE2_RKIS.csproj.CoreCompileInputs.cache
+C:\Users\public.COPP\RiderProjects\PRACTICE2_RKIS\PRACTICE2_RKIS\bin\Debug\net8.0\PRACTICE2_RKIS.exe
+C:\Users\public.COPP\RiderProjects\PRACTICE2_RKIS\PRACTICE2_RKIS\bin\Debug\net8.0\PRACTICE2_RKIS.deps.json
+C:\Users\public.COPP\RiderProjects\PRACTICE2_RKIS\PRACTICE2_RKIS\bin\Debug\net8.0\PRACTICE2_RKIS.runtimeconfig.json
+C:\Users\public.COPP\RiderProjects\PRACTICE2_RKIS\PRACTICE2_RKIS\bin\Debug\net8.0\PRACTICE2_RKIS.dll
+C:\Users\public.COPP\RiderProjects\PRACTICE2_RKIS\PRACTICE2_RKIS\bin\Debug\net8.0\PRACTICE2_RKIS.pdb
+C:\Users\public.COPP\RiderProjects\PRACTICE2_RKIS\PRACTICE2_RKIS\obj\Debug\net8.0\PRACTICE2_RKIS.dll
+C:\Users\public.COPP\RiderProjects\PRACTICE2_RKIS\PRACTICE2_RKIS\obj\Debug\net8.0\refint\PRACTICE2_RKIS.dll
+C:\Users\public.COPP\RiderProjects\PRACTICE2_RKIS\PRACTICE2_RKIS\obj\Debug\net8.0\PRACTICE2_RKIS.pdb
+C:\Users\public.COPP\RiderProjects\PRACTICE2_RKIS\PRACTICE2_RKIS\obj\Debug\net8.0\PRACTICE2_RKIS.genruntimeconfig.cache
+C:\Users\public.COPP\RiderProjects\PRACTICE2_RKIS\PRACTICE2_RKIS\obj\Debug\net8.0\ref\PRACTICE2_RKIS.dll

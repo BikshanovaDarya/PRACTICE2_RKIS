@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BQWBheBK0p+Ffbdyef4cT9xj64uelkSj9k2MwuV0Q8Mp8b1FL4fdUB0LoI31sdPMTTq8OtcFBckMIkuq1tlvIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1\\RiderProjects\\PRACTICE2_RKIS\\Task5.1\\Task5.1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

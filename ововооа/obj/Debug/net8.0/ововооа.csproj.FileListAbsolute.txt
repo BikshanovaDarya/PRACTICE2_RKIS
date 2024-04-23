@@ -1,0 +1,14 @@
+C:\Users\1\RiderProjects\PRACTICE2_RKIS\ововооа\bin\Debug\net8.0\ововооа.exe
+C:\Users\1\RiderProjects\PRACTICE2_RKIS\ововооа\bin\Debug\net8.0\ововооа.deps.json
+C:\Users\1\RiderProjects\PRACTICE2_RKIS\ововооа\bin\Debug\net8.0\ововооа.runtimeconfig.json
+C:\Users\1\RiderProjects\PRACTICE2_RKIS\ововооа\bin\Debug\net8.0\ововооа.dll
+C:\Users\1\RiderProjects\PRACTICE2_RKIS\ововооа\bin\Debug\net8.0\ововооа.pdb
+C:\Users\1\RiderProjects\PRACTICE2_RKIS\ововооа\obj\Debug\net8.0\ововооа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\RiderProjects\PRACTICE2_RKIS\ововооа\obj\Debug\net8.0\ововооа.AssemblyInfoInputs.cache
+C:\Users\1\RiderProjects\PRACTICE2_RKIS\ововооа\obj\Debug\net8.0\ововооа.AssemblyInfo.cs
+C:\Users\1\RiderProjects\PRACTICE2_RKIS\ововооа\obj\Debug\net8.0\ововооа.csproj.CoreCompileInputs.cache
+C:\Users\1\RiderProjects\PRACTICE2_RKIS\ововооа\obj\Debug\net8.0\ововооа.dll
+C:\Users\1\RiderProjects\PRACTICE2_RKIS\ововооа\obj\Debug\net8.0\refint\ововооа.dll
+C:\Users\1\RiderProjects\PRACTICE2_RKIS\ововооа\obj\Debug\net8.0\ововооа.pdb
+C:\Users\1\RiderProjects\PRACTICE2_RKIS\ововооа\obj\Debug\net8.0\ововооа.genruntimeconfig.cache
+C:\Users\1\RiderProjects\PRACTICE2_RKIS\ововооа\obj\Debug\net8.0\ref\ововооа.dll

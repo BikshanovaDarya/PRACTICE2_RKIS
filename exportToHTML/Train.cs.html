@@ -1,0 +1,32 @@
+<html>
+<head>
+<title>Train.cs</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.s0 { color: #6c95eb;}
+.s1 { color: #d0d0d0;}
+.s2 { color: #bdbdbd;}
+.s3 { color: #ed94c0;}
+</style>
+</head>
+<body bgcolor="#262626">
+<table CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#606060" >
+<tr><td><center>
+<font face="Arial, Helvetica" color="#000000">
+Train.cs</font>
+</center></td></tr></table>
+<pre><span class="s0">namespace </span><span class="s1">Task2</span><span class="s2">.</span><span class="s1">_2</span><span class="s2">;</span>
+<span class="s0">public class </span><span class="s1">Train</span>
+<span class="s2">{</span>
+    <span class="s0">public string </span><span class="s1">Destination </span><span class="s2">{ </span><span class="s1">get</span><span class="s2">; </span><span class="s1">set</span><span class="s2">; }</span>
+    <span class="s0">public int </span><span class="s1">TrainNumber </span><span class="s2">{ </span><span class="s1">get</span><span class="s2">; </span><span class="s1">set</span><span class="s2">; }</span>
+    <span class="s0">public </span><span class="s1">DateTime DepartureTime </span><span class="s2">{ </span><span class="s1">get</span><span class="s2">; </span><span class="s0">private </span><span class="s1">set</span><span class="s2">; }</span>
+
+    <span class="s0">public </span><span class="s1">DateTime SetDeparture</span><span class="s2">(</span><span class="s0">int </span><span class="s1">day</span><span class="s2">, </span><span class="s0">int </span><span class="s1">month</span><span class="s2">, </span><span class="s0">int </span><span class="s1">year</span><span class="s2">, </span><span class="s0">int </span><span class="s1">hour</span><span class="s2">, </span><span class="s0">int </span><span class="s1">minute</span><span class="s2">)</span>
+    <span class="s2">{</span>
+        <span class="s1">DepartureTime </span><span class="s2">= </span><span class="s0">new </span><span class="s1">DateTime</span><span class="s2">(</span><span class="s1">year</span><span class="s2">, </span><span class="s1">month</span><span class="s2">, </span><span class="s1">day</span><span class="s2">, </span><span class="s1">hour</span><span class="s2">, </span><span class="s1">minute</span><span class="s2">, </span><span class="s3">0</span><span class="s2">);</span>
+        <span class="s0">return </span><span class="s1">DepartureTime</span><span class="s2">;</span>
+    <span class="s2">}</span>
+<span class="s2">}</span></pre>
+</body>
+</html>

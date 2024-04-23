@@ -1,0 +1,14 @@
+C:\Users\public.COPP\RiderProjects\PRACTICE2_RKIS\Task2.5 hz rabotaet net\bin\Debug\net8.0\Task2.5 hz rabotaet net.exe
+C:\Users\public.COPP\RiderProjects\PRACTICE2_RKIS\Task2.5 hz rabotaet net\bin\Debug\net8.0\Task2.5 hz rabotaet net.deps.json
+C:\Users\public.COPP\RiderProjects\PRACTICE2_RKIS\Task2.5 hz rabotaet net\bin\Debug\net8.0\Task2.5 hz rabotaet net.runtimeconfig.json
+C:\Users\public.COPP\RiderProjects\PRACTICE2_RKIS\Task2.5 hz rabotaet net\bin\Debug\net8.0\Task2.5 hz rabotaet net.dll
+C:\Users\public.COPP\RiderProjects\PRACTICE2_RKIS\Task2.5 hz rabotaet net\bin\Debug\net8.0\Task2.5 hz rabotaet net.pdb
+C:\Users\public.COPP\RiderProjects\PRACTICE2_RKIS\Task2.5 hz rabotaet net\obj\Debug\net8.0\Task2.5 hz rabotaet net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\public.COPP\RiderProjects\PRACTICE2_RKIS\Task2.5 hz rabotaet net\obj\Debug\net8.0\Task2.5 hz rabotaet net.AssemblyInfoInputs.cache
+C:\Users\public.COPP\RiderProjects\PRACTICE2_RKIS\Task2.5 hz rabotaet net\obj\Debug\net8.0\Task2.5 hz rabotaet net.AssemblyInfo.cs
+C:\Users\public.COPP\RiderProjects\PRACTICE2_RKIS\Task2.5 hz rabotaet net\obj\Debug\net8.0\Task2.5 hz rabotaet net.csproj.CoreCompileInputs.cache
+C:\Users\public.COPP\RiderProjects\PRACTICE2_RKIS\Task2.5 hz rabotaet net\obj\Debug\net8.0\Task2.5 hz rabotaet net.dll
+C:\Users\public.COPP\RiderProjects\PRACTICE2_RKIS\Task2.5 hz rabotaet net\obj\Debug\net8.0\refint\Task2.5 hz rabotaet net.dll
+C:\Users\public.COPP\RiderProjects\PRACTICE2_RKIS\Task2.5 hz rabotaet net\obj\Debug\net8.0\Task2.5 hz rabotaet net.pdb
+C:\Users\public.COPP\RiderProjects\PRACTICE2_RKIS\Task2.5 hz rabotaet net\obj\Debug\net8.0\Task2.5 hz rabotaet net.genruntimeconfig.cache
+C:\Users\public.COPP\RiderProjects\PRACTICE2_RKIS\Task2.5 hz rabotaet net\obj\Debug\net8.0\ref\Task2.5 hz rabotaet net.dll
